@@ -1,0 +1,1119 @@
+@media only screen and (max-width: 480px) {
+.Simplicité-description {
+font-size: 12px;
+width: 90%;
+margin-top: 15px;
+}
+
+.Title-description {
+font-size: 13px;
+}
+
+.Simplicite-logo {
+width: 29%;
+margin-top: -20px;
+}
+
+.row {
+margin-top: 4px;
+}
+
+.green-box {
+height: 361px;
+width: 84%;
+margin-left: auto;
+margin-right: auto;
+margin-top: -37px;
+}
+
+.pink-box {
+height: 361px;
+width: 84%;
+margin: 2px;
+margin-left: auto;
+margin-right: auto;
+margin-top: -38px;
+
+}
+
+.grey-box {
+height: 361px;
+width: 84%;
+margin-left: auto;
+margin-right: auto;
+margin-top: -37px;
+}
+
+.row {
+display: block;
+}
+
+
+.flower {
+width: 130px;
+}
+
+.active {
+display: none!important;
+}
+
+.fa-bars {
+margin-top: -100px;
+position: absolute;
+margin-left: -29px
+}
+
+#myLinks {
+position: absolute;
+width: 44%;
+float: left;
+margin-top: -109px;
+width: 100%;
+}
+
+.headline-text {
+margin-top: -28px;
+}
+
+.slider-image1 {
+width: 36%;
+margin-top: 4px;
+float: left;
+height: 175px;
+margin-left: -65px;
+}
+
+.slider-image2 {
+margin-right: 27px;
+width: 90px;
+margin-top: 1px;
+float: right;
+}
+
+.fa-facebook {
+background: white;
+height: 19px;
+padding: 7px;
+border-radius: 63px;
+margin: 4px;
+padding-top: 8px;
+width: 19px;
+}
+
+.second-footer-manu {
+margin-left: 129px;
+}
+
+.second-footer-manubar {
+margin-left: 204px;
+font-size: 12px;
+}
+
+.slider3 {
+height: 190px;
+width: 100%;
+}
+
+.Social-Media {
+text-align: center;
+margin-left: 228px;
+margin-top: 175px;
+font-size: 22px;
+}
+
+.LUMINOSITY {
+padding-top: 111px;
+} 
+
+.Contact {
+margin-left: -120px;
+} 
+
+.Footer-Manu-bar2 {
+margin-left: -135px;
+padding: 0;
+margin-top: 181px;
+}
+
+.Footer-Manu-bar {
+margin-left: -23px;
+padding-left: 11px;
+}
+
+.fruit {
+width: 39px;
+height: 170px;
+}
+
+.Rejovenation {
+width: 39%;
+height: 170px;
+}
+
+.Hydra {
+width: 131px;
+height: 170px;
+}
+
+footer {
+height: 400px;
+margin-top: 8px;
+}
+
+.Simplicite-footer {
+margin-left: -83px;
+margin-top: 255px;
+}
+
+.slider-image3 {
+margin-right: 54px;
+width: 23%;
+float: right;
+margin-top: 0;
+padding-top: 30px;
+}
+
+.Skin-care {
+font-size: 20px;
+padding-top: 7px;
+}
+
+.nature {
+font-size: 24px;
+font-family: Latinotype ,Trenda ,Thin;
+margin-left: 42px;
+padding: 0;
+float: left;
+margin-top: 0;
+}
+
+.nature3 {
+font-size: 24px;
+font-family: Latinotype ,Trenda ,Thin;
+margin-left: 42px;
+padding: 0;
+float: left;
+padding-top: 170px;
+}
+
+.slider1 {
+height: 190px;
+width: 100%;
+}
+
+.slider2 {
+height: 190px;
+width: 100%;
+}
+
+.nature2 {
+font-size: 24px;
+font-family: Latinotype ,Trenda ,Thin;
+float: left;
+margin-left: 3px;
+padding-top: 178px;
+}
+
+.Text-box {
+width: 90%;
+}
+
+.Simplicité-description1 {
+font-size: 12px;
+padding-bottom: 30px;
+width: 90%;
+padding-bottom: 10px;
+}
+
+.Simplicité-description2 {
+font-size: 12px;
+width: 90%;
+}
+
+nav {
+    display: none;
+  }
+
+  li a, .dropbtn1 {
+  display: inline-block;
+  color: red;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+.second-footer-manubar {
+margin-left: -1px;
+}
+
+
+.Text-box {
+width: 84%;
+height: 90%;
+}
+
+.Menu {
+display: block;
+font-size: 20px;
+padding: 10px;
+margin-top: 37px;
+float: right;
+}
+
+.fa-plus {
+color: white;
+float: right;
+margin-top: -35px;
+padding: 10px;
+}
+
+.dropbtn {
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  font-family:none;
+  background: none;
+}
+
+.fa ,fa-bars {
+color: black;
+font-size: 30px;
+} 
+
+
+.dropdown {
+  display: inline-block;
+  float: none;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  min-width: 160px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: ;
+}
+/*li a:hover, .dropdown:hover .dropbtn {
+  
+}*/
+
+li.dropdown1 {
+  display: inline-block;
+  margin-top: -52px;
+  float: right;
+  margin-right: 151px;
+
+}
+
+.hamburger {
+  display: block;
+}
+
+.hamburger {
+    position: relative;
+    display: inline-block;
+    width: 1.25em;
+    height: 0.8em;
+    margin-right: 0.3em;
+    border-top: 0.2em solid white;
+    border-bottom: 0.2em solid white;
+}
+
+.blue-box {
+  height: 43px;
+}
+
+.hamburger:before {
+    content: "";
+    position: absolute;
+    top: 0.3em;
+    left: 0px;
+    width: 100%;
+    border-top: 0.2em solid white;
+}
+
+.add-cart {
+  margin-top: 15px;
+}
+
+.boarder {
+  margin-top: -5px;
+}
+
+.dropdown-content1 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  z-index: 1;
+  margin-top: 10px;
+}
+
+.dropdown-content1 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+.dropdown-content1 a:hover {background-color: #f1f1f1;}
+
+.dropdown1:hover .dropdown-content1 {
+  display: block;
+}
+nav {
+  display: none;
+}
+
+.topnav {
+  background-color: #333;
+  position: relative;
+}
+
+.topnav {
+display: block;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.logo {
+margin-top: -54px;
+}
+
+.example-box {
+  height: 20px;
+}
+
+
+#myLinks {
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+background: white;
+}
+
+.topnav a {
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 24px;
+  margin-top: -4px;
+}
+
+.active {
+  background-color: white;
+  color: white;
+  height: 20px;
+}
+
+
+.second-footer-manubar {
+margin-left: -1px;
+}
+
+
+.Text-box {
+width: 84%;
+height: 90%;
+}
+
+.fruit {
+width: 40%;
+}
+
+.Menu {
+display: block;
+font-size: 20px;
+padding: 10px;
+margin-top: 37px;
+float: right;
+}
+
+.fa-plus {
+color: white;
+float: right;
+margin-top: -35px;
+padding: 10px;
+}
+
+}
+
+/*Tablet size*/
+@media (min-width: 480px) and (max-width: 600px) {
+
+  nav {
+    display: none;
+  }
+
+  li a, .dropbtn1 {
+  display: inline-block;
+  color: red;
+  text-align: center;
+  text-decoration: none;
+}
+
+.LUMINOSITY {
+padding-top: 170px;
+}
+
+.row {
+display: block;
+justify-content: center;
+align-items: center;
+}
+
+.green-box {
+height: 405px;
+width: 74%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.pink-box {
+height: 405px;
+width: 74%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.grey-box {
+height: 405px;
+width: 74%;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+.Skin-care {
+font-size: 19px;
+padding: 7px;
+}
+
+.dropbtn {
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  font-family:none;
+  background: none;
+}
+
+.fa ,fa-bars {
+color: black;
+font-size: 30px;
+} 
+
+
+.dropdown {
+  display: inline-block;
+  float: none;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  min-width: 160px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: ;
+}
+/*li a:hover, .dropdown:hover .dropbtn {
+  
+}*/
+
+li.dropdown1 {
+  display: inline-block;
+  margin-top: -52px;
+  float: right;
+  margin-right: 151px;
+
+}
+
+.hamburger {
+  display: block;
+}
+
+.hamburger {
+position: relative;
+display: inline-block;
+width: 1.25em;
+    height: 0.8em;
+    margin-right: 0.3em;
+    border-top: 0.2em solid white;
+    border-bottom: 0.2em solid white;
+}
+
+.blue-box {
+  height: 43px;
+}
+
+.hamburger:before {
+    content: "";
+    position: absolute;
+    top: 0.3em;
+    left: 0px;
+    width: 100%;
+    border-top: 0.2em solid white;
+}
+
+.add-cart {
+  margin-top: 15px;
+}
+
+.boarder {
+  margin-top: -5px;
+}
+
+.slider-image1 {
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+}
+
+.slider-image2 {
+width: 100px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 60px;
+}
+
+.slider-image3 {
+width: 150px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 60px;
+}
+
+.nature {
+font-size: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: auto;
+margin-right: auto;
+padding-right: 260px;
+margin-bottom: -3px;
+margin-top: -210px;
+width: 70%;
+}
+
+.nature2 {
+font-size: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: auto;
+margin-right: auto;
+padding-right: 260px;
+margin-bottom: -3px;
+margin-top: -184px;
+width: 70%; 
+}
+
+.nature3 {
+font-size: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: auto;
+margin-right: auto;
+padding-right: 260px;
+margin-bottom: -3px;
+margin-top: -184px;
+width: 70%;
+}
+
+
+.dropdown-content1 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  z-index: 1;
+  margin-top: 10px;
+}
+
+.Simplicité-description {
+width: 80%;
+font-size: 18px;
+}
+
+.Title-description {
+font-size: 17px;
+}
+
+
+.Simplicité-description2 {
+width: 80%;
+font-size: 18px;
+padding-bottom: 40px;
+}
+
+.Simplicité-description1 {
+width: 80%;
+font-size: 18px;
+}
+
+.slider2 {
+width: 100%;
+height: 287px;
+}
+
+.slider1 {
+width: 100%;
+height: 287px;
+}
+
+.slider3 {
+width: 100%;
+height: 287px;
+}
+
+#myLinks {
+margin-top: -206px;
+position: absolute;
+width: 100%;
+}
+
+.dropdown-content1 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+.dropdown-content1 a:hover {background-color: #f1f1f1;}
+
+.dropdown1:hover .dropdown-content1 {
+  display: block;
+}
+nav {
+  display: none;
+}
+
+.topnav {
+  background-color: #333;
+  position: relative;
+}
+
+.topnav {
+display: block;
+}
+
+.fa-bars {
+margin-top: -206px;
+position: absolute;
+margin-left: -29px;
+}
+
+.flower {
+width: 30%;
+}
+
+.Text-box {
+width: 89%;
+height: 80%;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.logo {
+margin-top: -54px;
+}
+
+.example-box {
+  height: 20px;
+}
+
+#myLinks {
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+background: white;
+}
+
+.topnav a {
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 24px;
+  margin-top: -4px;
+}
+
+
+.active {
+  background-color: white;
+  color: white;
+  height: 20px;
+}
+}
+
+
+@media (min-width: 600px) and (max-width: 1100px) {
+
+
+  nav {
+    display: none;
+  }
+
+  li a, .dropbtn1 {
+  display: inline-block;
+  color: red;
+  text-align: center;
+  text-decoration: none;
+}
+
+.green-box {
+height: 361px;
+width: 27%;
+}
+
+.pink-box {
+height: 361px;
+width: 27%;
+
+}
+
+.grey-box {
+height: 361px;
+width: 27%;
+}
+
+
+
+.Skin-care {
+font-size: 19px;
+padding: 7px;
+}
+
+.dropbtn {
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  font-family:none;
+  background: none;
+}
+
+.fa ,fa-bars {
+color: black;
+font-size: 30px;
+} 
+
+
+.dropdown {
+  display: inline-block;
+  float: none;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  min-width: 160px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: ;
+}
+/*li a:hover, .dropdown:hover .dropbtn {
+  
+}*/
+
+li.dropdown1 {
+  display: inline-block;
+  margin-top: -52px;
+  float: right;
+  margin-right: 151px;
+
+}
+
+.hamburger {
+  display: block;
+}
+
+.hamburger {
+position: relative;
+display: inline-block;
+width: 1.25em;
+    height: 0.8em;
+    margin-right: 0.3em;
+    border-top: 0.2em solid white;
+    border-bottom: 0.2em solid white;
+}
+
+.blue-box {
+  height: 43px;
+}
+
+.hamburger:before {
+    content: "";
+    position: absolute;
+    top: 0.3em;
+    left: 0px;
+    width: 100%;
+    border-top: 0.2em solid white;
+}
+
+.add-cart {
+  margin-top: 15px;
+}
+
+.boarder {
+  margin-top: -5px;
+}
+
+.slider-image1 {
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+}
+
+.slider-image2 {
+width: 100px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 60px;
+}
+
+.slider-image3 {
+width: 150px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 60px;
+}
+
+.nature {
+font-size: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: auto;
+margin-right: auto;
+padding-right: 260px;
+margin-bottom: -3px;
+margin-top: -210px;
+width: 70%;
+}
+
+.nature2 {
+font-size: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: auto;
+margin-right: auto;
+padding-right: 260px;
+margin-bottom: -3px;
+margin-top: -184px;
+width: 70%; 
+}
+
+.nature3 {
+font-size: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: auto;
+margin-right: auto;
+padding-right: 260px;
+margin-bottom: -3px;
+margin-top: -184px;
+width: 70%;
+}
+
+
+.dropdown-content1 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  z-index: 1;
+  margin-top: 10px;
+}
+
+.Simplicité-description {
+width: 80%;
+font-size: 18px;
+}
+
+.Title-description {
+font-size: 17px;
+}
+
+
+.Simplicité-description2 {
+width: 80%;
+font-size: 18px;
+padding-bottom: 40px;
+}
+
+.Simplicité-description1 {
+width: 80%;
+font-size: 18px;
+}
+
+.slider2 {
+width: 100%;
+height: 287px;
+}
+
+.slider1 {
+width: 100%;
+height: 287px;
+}
+
+.slider3 {
+width: 100%;
+height: 287px;
+}
+
+#myLinks {
+margin-top: -206px;
+position: absolute;
+width: 100%;
+}
+
+.dropdown-content1 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+.dropdown-content1 a:hover {background-color: #f1f1f1;}
+
+.dropdown1:hover .dropdown-content1 {
+  display: block;
+}
+nav {
+  display: none;
+}
+
+.topnav {
+  background-color: #333;
+  position: relative;
+}
+
+.topnav {
+display: block;
+}
+
+.fa-bars {
+margin-top: -206px;
+position: absolute;
+margin-left: -29px;
+}
+
+.flower {
+width: 30%;
+}
+
+.Text-box {
+width: 89%;
+height: 80%;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.logo {
+margin-top: -54px;
+}
+
+.example-box {
+  height: 20px;
+}
+
+#myLinks {
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+background: white;
+}
+
+.topnav a {
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 24px;
+  margin-top: -4px;
+}
+
+.active {
+  background-color: white;
+  color: white;
+  height: 20px;
+}
+}
